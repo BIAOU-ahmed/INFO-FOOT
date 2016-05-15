@@ -36,10 +36,10 @@ footer{
 .menu-g{
 	float: left;
 	margin-right: 10px;
-	width: 20%;
+	max-width: 215,833px;
 }
 .contenu{
-	width: 45%;
+	max-width: 485,633px;
 	margin: 0 auto;
 }
 h1 {
