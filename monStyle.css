@@ -42,6 +42,10 @@ footer{
 	max-width: 485,633px;
 	margin: 0 auto;
 }
+.contenus{
+	max-width: 45%;
+	margin: 0 auto;
+}
 h1 {
 	font-size: 40pt;
 	color: Crimson ;
